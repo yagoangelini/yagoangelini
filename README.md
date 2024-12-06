@@ -1,46 +1,32 @@
 # Quem é Yago Angelini?
-- ✅ Atuante no mercado de design gráfico, dados e tecnologia desde 2016;
-- ✅ Amante de tecnologia em geral;
-- ✅ Fundador da Safe Design Art, startup voltada para Design Gráfico, Marketing Digital e Desenvolvimento Web produzindo conteúdo com base na análise dos dados da empresa a fim de impulsioná-la com consciência e assertividade;
-- ✅ Portfólio digital: https://behance.net/safedesignart
+- ✅ Profissional multifacetado com experiência desde 2016 nas áreas de dados, design gráfico e tecnologia, combinando criatividade e habilidades técnicas para entregar resultados de alto impacto.  
+- ✅ Fundador da Safe Design Art, uma startup especializada em design gráfico, desenvolvimento de sites em WordPress e projetos em Power Platform, oferecendo soluções inovadoras e eficientes para impulsionar negócios.  
+- ✅ Especialista em transformar desafios complexos em soluções práticas e inovadoras, sempre alinhadas às demandas do mercado.  
+- 🌐 [Portfólio Behance](https://behance.net/safedesignart)
 
-# Designer Gráfico e Desenvolvedor Web
-- ✒️ Formado em Design Gráfico pela SAGA - School of Art, Game and Animation;
-- ✒️ Especialização e Certificação Profissional em Arte Digital, Computação Gráfica, Arte Vetorial, Edição de
-Imagens, Desenho e Pintura Digital, 3D, Edição AudioVisual, Composição de Vídeo e Efeitos e Game 2D;
-- ✒️ Capacitação completa em 28 meses de aprendizado intenso;
-- ✒️ Possui portfólio com mais de 270 projetos concluídos;
-- ✒️ Profissionalização em ferramentas e produtos Adobe e Autodesk.
+## Designer Gráfico e Desenvolvedor Web
+- ✒️ Formado em Design Gráfico pela SAGA - School of Art, Game and Animation.  
+- ✒️ Especialização em Arte Digital, Computação Gráfica, Design 3D e Audiovisual, utilizando ferramentas como Adobe (Photoshop, Illustrator, InDesign, After Effects, Premiere Pro), Canva, Figma e Autodesk Maya 3D.  
+- ✒️ Capacitação intensiva de 28 meses, com mais de 270 projetos desenvolvidos.  
+- ✒️ Profissionalização em Arte Vetorial, Edição de Imagens, Desenho Digital, Efeitos Visuais e Game Design.
 
-# Skills
-- 🤖 Linguagens de Programação:
-  - Python, Java, C, SQL
-- 🤖 Ferramentas e Tecnologias:
-  - Spark, Hadoop, Big Data
-- 🤖 Áreas de Especialização:
-  - Modelagem de algoritmos (supervisionados e não supervisionados)
-  - Machine Learning & Deep Learning
-  - Estruturas de Dados e Engenharia de Software
-  - Sistemas Distribuídos
+## Qualidades Profissionais
+- 🔑 Comprometido com resultados e objetivos.  
+- 🔑 Proativo na resolução de problemas complexos.  
+- 🔑 Capacidade de liderança e gestão de equipes.  
+- 🔑 Visão estratégica e foco em inovação.
 
-# Pontos-Chave
-- 🔑 Habilidades excepcionais de criatividade e comunicação;
-- 🔑 Trabalho bem sucedido em um ambiente de equipe ou sozinho;
-- 🔑 Competência em trabalhar sob pressão e multitarefa;
-- 🔑 Aptidão em seguir instruções e fornecer resultados de qualidade.
+## Data Science e Inteligência Artificial
+- 🎓 **Bacharelado (UAM)**: Foco em armazenar e analisar grandes volumes de dados usando métodos estatísticos e ferramentas de Data Science e Big Data. Experiência em aprendizado supervisionado e não supervisionado para modelos preditivos e soluções práticas.  
+- 🎓 **MBA (FIAP)**: Consolidação de conhecimentos em áreas como Feature Engineering, Reinforcement Learning, Visão Computacional, Estatística Aplicada e Sistemas de Recomendação. Desenvolvimento de pipelines de dados robustos e aplicação de técnicas de Machine Learning e Deep Learning para análise preditiva, transformando dados complexos em insights estratégicos para tomada de decisão.  
+- 🛠️ **Ferramentas e Tecnologias**: Expertise em Python, Java, SQL, NiFi, TensorFlow, Jupyter, Colab, VSCode, Anaconda e bancos de dados NoSQL (Redis, Cassandra, MongoDB, Neo4J). Experiência com plataformas em nuvem como Azure para Big Data e IA.
 
-# Data Science
-## Bacharelado (UAM)
-- 🎓 Profissionalização em armazenar e analisar grandes quantidades de dados através de métodos estatísticos, estruturas de dados, ferramentas de Data Science e Big Data e modelos de aprendizado de máquina (Machine Learning);
-- 🎓 Qualificação em apresentar os conhecimentos adquiridos pelas análises através de técnicas de visualização de dados, a fim de garantir bons resultados nas tomadas de decisão.
-- 🎓 Aprendizado com algumas das melhores ferramentas de Data Science: C, Java, Python, R, SQL (SQL Server), Weka, Hadoop, Spark (PySpark)...
+### Áreas de Especialização
+- 🧠 Machine Learning, Deep Learning & IA  
+- 🧠 Feature Engineering e Visão Computacional  
+- 🧠 Sistemas Distribuídos e Big Data
 
-# Formações Complementares
-- ⭐ Inglês Intermediário;
-- ⭐ Microsoft Certified: PL-100
-- ⭐ Microsoft Certified: PL-500
-- ⭐ Microsoft Certified: AI-900
-- ⭐ Microsoft Certified: AZ-900
-- ⭐ Microsoft Applied Skills: PL-7001
-- ⭐ Microsoft Applied Skills: PL-7002
-- ⭐ Microsoft Applied Skills: PL-7003
+## Formações Complementares
+- ⭐ Inglês Intermediário;  
+- ⭐ Microsoft Certified: PL-100, PL-500, AI-900, AZ-900;  
+- ⭐ Microsoft Applied Skills: PL-7001, PL-7002, PL-7003.
